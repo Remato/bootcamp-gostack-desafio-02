@@ -40,7 +40,7 @@ ______________________________________________________________________________
 - **[bee-queue](https://github.com/bee-queue/bee-queue)** **: a simple, fast, robust job/task queue for Node.js, backed by Redis.**
   - | was used to create e-mail queues in background and reduce the time of requests / running a Redis(alpine) docker |
   
-- **[date-fns](https://date-fns.org/)** **: is a javaScript date utility library
+- **[date-fns](https://date-fns.org/)** **: is a javaScript date utility library**
   - | is simple and useful for handling dates |
   
 - **[dotenv](https://github.com/motdotla/dotenv)** **: module that loads environment variables from a .env file into => `process.env`**
