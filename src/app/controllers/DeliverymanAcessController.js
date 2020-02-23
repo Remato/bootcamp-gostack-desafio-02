@@ -53,7 +53,7 @@ class DeliverymanAcessController {
 
   async startDelivery(req, res) {
     const { id } = req.params;
-
+    // teste
     const today = new Date();
 
     const start = setSeconds(setMinutes(setHours(today, 8), 0), 0);
