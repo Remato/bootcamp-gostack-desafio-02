@@ -1,6 +1,8 @@
 # Bootcamp GoStack - FastFeet
 Desafio FastFeet do Bootcamp GoStack 🚀👨🏻‍🚀
 
+FastFeet é aplicação de uma transportadora fictícia.
+
 [1] Run this command to install all dependencies on package.json
 
 ~$`yarn install`
